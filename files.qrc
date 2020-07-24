@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translations/multilang_English_US.qm</file>
+        <file>translations/multilang_Russian_RU.qm</file>
+        <file>icons/Thesquid.ink-Free-Flat-Sample-Owl.ico</file>
+        <file>icons/close.png</file>
+    </qresource>
+</RCC>
